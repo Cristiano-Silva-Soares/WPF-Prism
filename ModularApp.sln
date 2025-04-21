@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularAppShell", "ModularAppShell\ModularAppShell.csproj", "{A22117F8-5625-4118-849E-ADD7FE7F244F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularAppDashboard", "ModularAppDashboard\ModularAppDashboard.csproj", "{2169C369-CA80-4989-9664-0FCF9F1296CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularAppReporting", "ModularAppReporting\ModularAppReporting.csproj", "{3FCBAC2B-A759-4517-9661-BD20B65C02E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22117F8-5625-4118-849E-ADD7FE7F244F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22117F8-5625-4118-849E-ADD7FE7F244F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22117F8-5625-4118-849E-ADD7FE7F244F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22117F8-5625-4118-849E-ADD7FE7F244F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2169C369-CA80-4989-9664-0FCF9F1296CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2169C369-CA80-4989-9664-0FCF9F1296CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2169C369-CA80-4989-9664-0FCF9F1296CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2169C369-CA80-4989-9664-0FCF9F1296CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCBAC2B-A759-4517-9661-BD20B65C02E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCBAC2B-A759-4517-9661-BD20B65C02E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCBAC2B-A759-4517-9661-BD20B65C02E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCBAC2B-A759-4517-9661-BD20B65C02E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

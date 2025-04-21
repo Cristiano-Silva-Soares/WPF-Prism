@@ -1,0 +1,16 @@
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\bin\Debug\net8.0-windows\ModularAppReporting.deps.json
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\bin\Debug\net8.0-windows\ModularAppReporting.dll
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\bin\Debug\net8.0-windows\ModularAppReporting.pdb
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting.csproj.AssemblyReference.cache
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\Views\ReportingView.baml
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\Views\ReportingView.g.cs
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting_MarkupCompile.cache
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting.g.resources
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting.AssemblyInfoInputs.cache
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting.AssemblyInfo.cs
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting.csproj.CoreCompileInputs.cache
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting.dll
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\refint\ModularAppReporting.dll
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ModularAppReporting.pdb
+C:\Users\cristiano.soares\RiderProjects\ModularApp\ModularAppReporting\obj\Debug\net8.0-windows\ref\ModularAppReporting.dll

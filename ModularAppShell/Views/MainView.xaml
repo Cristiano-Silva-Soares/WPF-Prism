@@ -1,0 +1,52 @@
+﻿<Window x:Class="ModularAppShell.Views.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:prism="http://prismlibrary.com/"
+        mc:Ignorable="d"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        Title="MainView" Height="450" Width="800">
+    <Grid>
+    <Grid.ColumnDefinitions>
+            <!-- Coluna do menu lateral -->
+            <ColumnDefinition Width="150"/>
+            <!-- Coluna do conteúdo principal + borda vermelha -->
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Sidenav -->
+        <Border Grid.Column="0" Background="#F0F0F0">
+            <StackPanel VerticalAlignment="Top" Margin="5">
+                <TextBlock Text="Project Menu" 
+                           FontWeight="Bold"
+                           Margin="0 10 0 5"
+                           HorizontalAlignment="Center"/>
+
+                <!-- Menu buttons -->
+                <Button Content="Dashboard" 
+                        Command="{Binding NavigateToModuleDashboardCommand}"
+                        Margin="2"/>
+                
+                <Button Content="Reporting" 
+                        Command="{Binding NavigateToModuleReportingCommand}"
+                        Margin="2"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Separador Visual -->
+        <Rectangle Grid.Column="0" Width="1" HorizontalAlignment="Right" Fill="LightGray"/>
+
+        <!-- Área de Conteúdo com Borda Vermelha -->
+        <Border Grid.Column="1" 
+                BorderBrush="Red" 
+                BorderThickness="2" 
+                Margin="5"
+                Background="White">
+            
+            <ContentControl prism:RegionManager.RegionName="MainRegion"
+                            VerticalContentAlignment="Stretch"
+                            HorizontalContentAlignment="Stretch"/>
+        </Border>
+    </Grid>
+</Window>
